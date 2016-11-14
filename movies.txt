@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ibrat</title>
+<style>
+	html{background: #FF7043;}
+	
+	</style>
+</head>
+<body>
+
+
+
+</body>
+</html>
